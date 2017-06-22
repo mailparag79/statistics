@@ -2,8 +2,6 @@ import math
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-get_ipython().magic(u'matplotlib inline')
-
 
 class Regression(object):
     def __init__(self, file):
